@@ -19,3 +19,8 @@ This workspace contains all devoted roleplay assets managed by the Department of
 | sonoranradio                    | Private ⛔              | sonoranradio (Auto Updates)                                   |
 | qb-core                         | Private ⛔              | qb-core related economy scripts                               |
 | .github                         | Public ✅               | Public Repository to display this README.md                   |
+
+## Interested In Becoming A Member of the Department of Research & Development (Follow the Links Below)
+
+- https://community.devotedrp.com
+- https://discord.gg/jFuUWSdjSy
